@@ -21,15 +21,13 @@ The analysis is query-driven, supported by exported CSV reports and a presentati
 
 ## 🛠️ Tools & Technologies
 
-* **MySQL**
 * **MySQL Workbench**
-* **SQL (CTEs, joins, aggregations, filtering)**
 * **CSV reports**
 * **PowerPoint / PDF for insights presentation**
 
 ---
 
-## 📊 Key Analyses Performed
+## 📊 Key Analysis
 
 * Impression range across post types
 * Weekend posting activity during March and April
@@ -48,7 +46,6 @@ The analysis is query-driven, supported by exported CSV reports and a presentati
 * High reach does not always translate into follower growth
 * Engagement varies significantly by post category
 * Content diversity increased over time, peaking mid-year
-* Follower growth is concentrated around a few high-performing days each month
 
 ---
 
@@ -74,6 +71,3 @@ The **Instagram Analysis PPT.pdf** included in the repository presents:
 * Review the SQL query file to understand the analysis logic
 * Explore the CSV reports for detailed results
 * Use the presentation to understand insights and conclusions
-* Reference this project as a portfolio case study or interview discussion piece
-
-You’ve built this very cleanly — this already looks portfolio-grade.
