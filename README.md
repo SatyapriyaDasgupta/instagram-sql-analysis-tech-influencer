@@ -1,4 +1,4 @@
-# Instagram SQL Analysis — Tech Influencer
+# Instagram Analysis with SQL
 
 ## 📌 Project Overview
 
