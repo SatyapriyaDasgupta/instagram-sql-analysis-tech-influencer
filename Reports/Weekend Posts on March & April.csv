@@ -1,0 +1,19 @@
+date,month_name,weekday_name,weekday_or_weekend,week_no,post_category,post_type,video_duration,carousel_item_count,impressions,reach,shares,follows,likes,comments,saves
+2023-03-04,March,Saturday,Weekend,W9,Earphone,"IG Video",291,0,12265,3668,69,92,327,7,18
+2023-03-05,March,Sunday,Weekend,W10,Smartwatch,"IG Image",0,0,62770,18001,273,360,1194,28,76
+2023-03-11,March,Saturday,Weekend,W10,Mobile,"IG Carousel",0,3,5899,1093,45,12,53,0,6
+2023-03-12,March,Sunday,Weekend,W11,Laptop,"IG Image",0,0,79416,23474,327,259,1235,69,204
+2023-03-18,March,Saturday,Weekend,W11,Mobile,"IG Carousel",0,3,9157,2254,67,58,55,6,15
+2023-03-19,March,Sunday,Weekend,W12,Smartwatch,"IG Carousel",0,3,4146,1079,42,17,43,1,6
+2023-03-25,March,Saturday,Weekend,W12,Earphone,"IG Reel",22,0,132284,66721,1093,1482,3622,83,695
+2023-03-26,March,Sunday,Weekend,W13,Mobile,"IG Image",0,0,63425,26113,435,336,1994,68,179
+2023-04-01,April,Saturday,Weekend,W13,Mobile,"IG Carousel",0,3,4549,1052,27,18,35,1,6
+2023-04-02,April,Sunday,Weekend,W14,Earphone,"IG Video",163,0,54672,16126,172,182,938,22,81
+2023-04-08,April,Saturday,Weekend,W14,"Other Gadgets","IG Video",258,0,37955,12663,204,164,753,31,63
+2023-04-09,April,Sunday,Weekend,W15,Mobile,"IG Image",0,0,52278,14438,271,167,1393,36,44
+2023-04-15,April,Saturday,Weekend,W15,Laptop,"IG Reel",30,0,123270,39850,296,1486,3926,101,1139
+2023-04-16,April,Sunday,Weekend,W16,"Other Gadgets","IG Reel",29,0,115701,66829,937,929,5749,94,658
+2023-04-22,April,Saturday,Weekend,W16,Laptop,"IG Video",172,0,33604,14682,255,349,1038,22,73
+2023-04-23,April,Sunday,Weekend,W17,Earphone,"IG Video",229,0,36973,13629,224,244,929,30,68
+2023-04-29,April,Saturday,Weekend,W17,Earphone,"IG Video",206,0,43526,11799,134,138,646,12,59
+2023-04-30,April,Sunday,Weekend,W18,Mobile,"IG Reel",59,0,185017,63990,1010,2238,6039,94,330
